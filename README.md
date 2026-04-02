@@ -17,6 +17,7 @@ The purpose of this project is to practice building a simple, responsive web pag
 ## Future Improvements
 - Add JavaScript for interactivity
 - Enhance UI with animations and transitions
+- Responsive
 
 
 
